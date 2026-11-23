@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Framer__list_projects",
+      "mcp__Framer__list_workspaces",
+      "mcp__Framer__open_project",
+      "mcp__Framer__read_docs",
+      "mcp__Framer__view_image",
+      "mcp__Framer__exec"
+    ]
+  }
+}
